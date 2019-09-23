@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://shin.donghoon.info/"
+baseURL = "https://donghoon.io/"
 languageCode = "en-us"
 title = "Donghoon Shin"
 theme = "forty"
