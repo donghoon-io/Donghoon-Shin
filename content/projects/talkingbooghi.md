@@ -1,0 +1,18 @@
+---
+title: "TalkingBoogie"
+description: "Collaborative augmentative and alternative communication (AAC) system for non-verbal children with developmental disabilities (iOS)"
+slug: "talkingboogie"
+image: talkingboogie.jpg
+keywords: ""
+categories: 
+    - ""
+    - ""
+date: 2019-09-20T22:26:09-05:00
+draft: false
+---
+
+**Augmentative and alternative communication (AAC)** technologies are widely used to help non-verbal children enable communication. For AAC-aided communication to be successful, caregivers should support children with consistent intervention strategies in various settings. As such, caregivers need to continuously observe and discuss children's AAC usage to create a shared understanding of these strategies. However, caregivers often find it challenging to effectively collaborate with one another due to a lack of family involvement and the unstructured process of collaboration. To address these issues, we present TalkingBoogie, which consists of two mobile apps: TalkingBoogie-AAC for caregiver-child communication, and TalkingBoogie-coach supporting caregiver collaboration. Working together, these applications provide contextualized layouts for symbol arrangement, scaffold the process of sharing and discussing observations, and induce caregivers' balanced participation. A two-week deployment study with four groups (N=11) found that TalkingBoogie helped increase mutual understanding of strategies and encourage balanced participation between caregivers with reduced cognitive loads.
+
+---
+
+This work was supported by SNU Undergraduate Research Program through the Faculty of Liberal Education, Seoul National University (2019).
