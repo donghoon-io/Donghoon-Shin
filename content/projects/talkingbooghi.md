@@ -1,6 +1,6 @@
 ---
 title: "TalkingBoogie"
-description: "Collaborative augmentative and alternative communication (AAC) system for non-verbal children with developmental disabilities (iOS)"
+description: "Collaborative augmentative and alternative communication (AAC) system for non-verbal children with developmental disabilities (Deployed on iOS, available on App Store)"
 slug: "talkingboogie"
 image: talkingboogie.jpg
 keywords: ""

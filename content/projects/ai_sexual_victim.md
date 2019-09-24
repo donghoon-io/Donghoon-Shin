@@ -1,6 +1,6 @@
 ---
 title: "BADA"
-description: "Supporting sexual crime victims with AI system"
+description: "Supporting sexual crime victims with AI system (Prototype deployed on web)"
 slug: "ai_sexual_victim"
 image: ai_sexual_victim.jpg
 keywords: ""

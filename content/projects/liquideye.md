@@ -1,6 +1,6 @@
 ---
 title: "LiquidEye"
-description: "Building a Behavioral Intervention Technology (BIT) framework: With an example of LiquidEye application (MacOS)"
+description: "Building a Behavioral Intervention Technology (BIT) framework: With an example of the intervention within LiquidEye application targeted to computer-vision symdrome (Prototype deployed on MacOS)"
 slug: "liquideye"
 image: liquideye.jpg
 keywords: ""
