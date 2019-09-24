@@ -9,41 +9,72 @@ draft: false
 #### Education
 - **Seoul National University, Seoul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(March 2016 ~ Present)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Electrical and Computer Engineering](http://ee.snu.ac.kr/en), College of Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GPA : 3.43 / 4.3)
+> [Electrical and Computer Engineering](http://ee.snu.ac.kr/en), College of Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GPA : 3.43 / 4.3)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information Science](http://isc.snu.ac.kr/) (Interdisciplinary major), College of Social Sciences&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GPA : 4.1 / 4.3)
+> [Information Science](http://isc.snu.ac.kr/) (Interdisciplinary major), College of Social Sciences&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GPA : 4.1 / 4.3)
 
 - - -
   
 #### Research Interests
 
-> Human-computer interaction
+- **Human-computer interaction**
 
 > Accessibility
 
-> Learning at scale
+> Healthcare intervention
 
+> Social computing
+
+> Learning at scale
 
 - - -
   
 #### Skills
 
-> Swift
+- **Swift**
 
-> Python
+> [TalkingBoogie](https://apps.apple.com/us/app/talkingbooghi/id1435744898) (iOS) - Collaborative AAC system for non-verbal children with developmental disabilities and their caregivers
 
-> Photoshop
+> [ECE grad](https://apps.apple.com/us/app/ece-grad/id1450808330) (iOS) - Graduation manager/calculator for SNU ECE undergraduate students
 
-> Illustrator
+> [LiquidEye](https://apps.apple.com/us/app/ece-grad/id1450808330) (MacOS) - Behavioral intervention technology (BIT) application for computer users suffering from computer vision syndrome
 
-> Processing
+- **Python**
+
+> [K-MOOC analysis](https://nile.go.kr) - Metadata crawling/user log analysis/NLP with Python
+
+- **Java (Kotlin)**
+
+> [My previous Android apps](https://play.google.com) (Android)
+
+- **Photoshop, Illustrator**
+
+> [Designer](https://www.facebook.com/snuengsc) in SNU engineering student council
+
+- **Processing**
+
+> [SNU ISC 2114.304 projects](https://github.com/ssshyhy?tab=repositories)
 
 - - -
 
-#### Research and Publication
+#### Publication and Presentation
+
+2019
 
 > Seoyoung Kim, Sunwoo Kwon, **Donghoon Shin**, Juho Kim (2019). “An Analysis of K-MOOC Learners’ Data and an Investigation of Its Future Applications” (publication) [pdf](assets/pdf/kmooc.pdf)
 
+2018
+
 > 박지수, **신동훈**, 이주원 (2018). “중도 발달장애인을 위한 사진 기반 AAC 앱 기획 및 개발, ” 한국보완대체의사소통학회 추계학술대회 (oral presentation) [pdf](assets/pdf/talkingbooghi_keynote.pdf)
 
-> **Donghoon Shin** (2017). ”Automatic user-detecting table using infrared sensors,” SNU Electrical and Computer Engineering (poster) [pdf](assets/pdf/table.pdf)
+- - -
+
+#### Still got a question?
+
+Always feel free to contact me. I'll try to get in touch at least in 24 hours.
+
+<ul class="actions fit small">
+	<li><a href="mailto:ssshyhy@snu.ac.kr" class="button fit small">E-mail</a></li>
+	<li><a href="tel:+82-10-8216-5201" class="button fit small">Phone</a></li>
+	<li><a href="https://m.me/tswiftlove" class="button fit small">Messenger</a></li>
+</ul>
