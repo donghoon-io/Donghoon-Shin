@@ -11,7 +11,7 @@ draft: false
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Electrical and Computer Engineering](http://ee.snu.ac.kr/en), College of Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GPA : 3.43 / 4.3)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information Science and Culture](http://isc.snu.ac.kr/) (Interdisciplinary major), College of Social Sciences&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GPA : 4.1 / 4.3)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information Science](http://isc.snu.ac.kr/) (Interdisciplinary major), College of Social Sciences&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GPA : 4.1 / 4.3)
 
 - - -
   
