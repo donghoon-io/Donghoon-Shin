@@ -7,17 +7,11 @@ draft: false
 
 
 #### Education
-**Seoul National University, Seoul (March 2016 ~ Present)**
+- **Seoul National University, Seoul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(March 2016 ~ Present)
 
-> Department of Electrical and Computer Engineering
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Electrical and Computer Engineering](http://ee.snu.ac.kr/en), College of Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GPA : 3.43 / 4.3)
 
-> College of Engineering
-
-**Seoul National University, Seoul (March 2017 ~ Present)**
-
-> Interdisciplinary Major of Information Science and Culture
-
-> College of Social Sciences
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information Science and Culture](http://isc.snu.ac.kr/) (Interdisciplinary major), College of Social Sciences&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GPA : 4.1 / 4.3)
 
 - - -
   
@@ -46,7 +40,7 @@ draft: false
 
 - - -
 
-#### Research and publication
+#### Research and Publication
 
 > Seoyoung Kim, Sunwoo Kwon, **Donghoon Shin**, Juho Kim (2019). “An Analysis of K-MOOC Learners’ Data and an Investigation of Its Future Applications” (publication) [pdf](assets/pdf/kmooc.pdf)
 
