@@ -2,7 +2,7 @@
 title: "K-MOOC analysis"
 description: "Massive Open Online Course (MOOC) analysis: Based on the data of Korean MOOC system (K-MOOC)"
 slug: "kmooc"
-image: kmooc.jpg
+image: kmooc.png
 keywords: ""
 categories: 
     - ""
