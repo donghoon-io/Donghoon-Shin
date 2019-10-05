@@ -1,6 +1,6 @@
 ---
 title: "ECE grad"
-description: "Graduation manager/simulator for SNU ECE students (Deployed on iOS, available on App Store)"
+description: "Graduation manager/simulator for SNU ECE students (Deployed on iOS, available on the App Store)"
 slug: "ece_grad"
 image: ecegrad.png
 keywords: ""
