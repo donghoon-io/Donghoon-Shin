@@ -76,5 +76,5 @@ Always feel free to contact me. I'll try to get in touch at least in 24 hours.
 <ul class="actions fit small">
 	<li><a href="mailto:ssshyhy@snu.ac.kr" class="button fit small">E-mail</a></li>
 	<li><a href="tel:+82-10-8216-5201" class="button fit small">Phone</a></li>
-	<li><a href="https://m.me/tswiftlove" class="button fit small">Messenger</a></li>
+	<li><a href="https://m.me/aoutshin" class="button fit small">Messenger</a></li>
 </ul>
