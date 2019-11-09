@@ -9,9 +9,9 @@ draft: false
 #### Education
 - **Seoul National University, Seoul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(March 2016 ~ Present)
 
-> [Electrical and Computer Engineering](http://ee.snu.ac.kr/en), College of Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GPA : 3.43 / 4.3)
+> [Electrical and Computer Engineering](http://ee.snu.ac.kr/en), College of Engineering
 
-> [Information Science](http://isc.snu.ac.kr/) (Interdisciplinary major), College of Social Sciences&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GPA : 4.1 / 4.3)
+> [Information Science](http://isc.snu.ac.kr/) (Interdisciplinary major), College of Social Sciences
 
 - - -
   
