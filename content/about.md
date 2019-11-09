@@ -47,9 +47,9 @@ draft: false
 
 > [My previous Android apps](https://play.google.com) (Android)
 
-- **Photoshop, Illustrator**
+- **Adobe Photoshop, Illustrator**
 
-> [Designer](https://www.facebook.com/snuengsc) in SNU engineering student council
+> Worked as a Designer in [SNU Engineering student council](https://www.facebook.com/snuengsc)
 
 - **Processing**
 

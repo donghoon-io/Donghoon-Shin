@@ -137,7 +137,7 @@ disqusShortname = ""
     title = "Who am I?"
     subtitle = """I am majoring in Electrical & Computer Engineering, Human-Computer Interaction at Seoul National University.
     Currently, I am working at HCI+d lab as an undergraduate research intern advised by prof. Joonhwan Lee. My projects focus on making underrepresented user groups more accessible to
-    computing technologies (Accessibility) and dealing with interpersonal issues through a conversational agent (Social computing).
+    computing technologies (Accessibility) and dealing with interpersonal issues through a conversational agent.
     """
     buttonText = "About me"
     url = "about"
